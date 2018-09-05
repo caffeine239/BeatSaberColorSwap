@@ -1,0 +1,13 @@
+C:\Users\caffe\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\BeatSaberColorSwap.exe.config
+C:\Users\caffe\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\BeatSaberColorSwap.exe
+C:\Users\caffe\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\BeatSaberColorSwap.pdb
+C:\Users\caffe\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Newtonsoft.Json.dll
+C:\Users\caffe\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Newtonsoft.Json.xml
+C:\Users\caffe\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\caffe\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\caffe\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\BeatSaberColorSwap.Properties.Resources.resources
+C:\Users\caffe\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\caffe\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\caffe\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\caffe\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\BeatSaberColorSwap.exe
+C:\Users\caffe\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\BeatSaberColorSwap.pdb
